@@ -24,9 +24,9 @@ filled to start applying, build it up as you go, and lead with the capabilities 
 are most confident explaining.
 -->
 
-**Name:** [YOUR NAME]
-**LinkedIn:** [linkedin.com/in/yourprofile]
-**GitHub:** [github.com/yourusername]
+**Name:** [Viviane Anani]
+**LinkedIn:** [www.linkedin.com/in/identity-access-management-engineer-viviane]
+**GitHub:** [(https://github.com/ladykaf/iam-implementation-portfolio)]
 **Status:** In progress
 
 ---
